@@ -6,7 +6,6 @@ using DG.Tweening;
 
 public class GameManager : MonoBehaviour
 {
-
     public CameraFollow cameraFollow;
     int currentBirdIndex;
     public SlingShot slingshot;
